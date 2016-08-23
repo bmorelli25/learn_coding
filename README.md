@@ -9,6 +9,8 @@ List of resources (mostly free) to learn coding
 * [Learning js Design patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Reusable solutions to commonly occuring problems
 * [Asynchronous Module Definition](http://requirejs.org/docs/api.html)
 * [Eloquent JS](http://eloquentjavascript.net/) - Free Javascript Ebook
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - Free, hosted on Github
+* [Another Github repo with free JS books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#javascript)
 
 ### Web Applicstions:
 * [How to Create a Complete Express.js + Node.js + MongoDB CRUD and REST Skeleton](https://www.airpair.com/javascript/complete-expressjs-nodejs-mongodb-crud-skeleton)
@@ -22,6 +24,10 @@ List of resources (mostly free) to learn coding
 * [10 best ReactJS tutorials](http://noeticforce.com/best-reactjs-tutorials-with-examples)
 * [React Starter Project Search](http://andrewhfarmer.com/starter-project/)
 * [Exploring the react Ecosystem!](https://www.toptal.com/react/navigating-the-react-ecosystem) - Article
+* 
+
+* [Great Free React books](https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md) - Use this link first
+
 
 
 ### Free Online Computer Science Courses
