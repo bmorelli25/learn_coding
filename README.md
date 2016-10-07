@@ -12,7 +12,7 @@ List of resources (mostly free) to learn coding
 * [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - Free, hosted on Github
 * [Another Github repo with free JS books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#javascript)
 
-### Web Applicstions:
+### Web Applications:
 * [How to Create a Complete Express.js + Node.js + MongoDB CRUD and REST Skeleton](https://www.airpair.com/javascript/complete-expressjs-nodejs-mongodb-crud-skeleton)
 * [Building web app using react.js, express.js, node.js and mongodb](http://www.codeproject.com/Articles/1067725/Part-Building-web-app-using-react-js-express-js) - Part 1, 2
 * [Trello tribute with Phoenix, React, Redux, PostgreSQL](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/) - 12 parts
@@ -36,6 +36,7 @@ List of resources (mostly free) to learn coding
 ### Other:
 * [Watch this if you want to become a web developer](https://www.youtube.com/watch?v=pB0WvcxTbCA) - Youtube video outlining what to learn
 * [RegexOne](http://regexone.com/) - Learn Regular Expressions
+* [MongoDB University](https://university.mongodb.com/courses/catalog) - Learn Mongo + Node
 
 ### Cool projects other people have made:
 * [Belgian Beer Explorer with React, Bootstrap, Node.js and Postgres](http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-react-bootstrap-node-js-and-postgres/)
