@@ -17,7 +17,8 @@ List of resources (mostly free) to learn coding
 * [Building web app using react.js, express.js, node.js and mongodb](http://www.codeproject.com/Articles/1067725/Part-Building-web-app-using-react-js-express-js) - Part 1, 2
 * [Trello tribute with Phoenix, React, Redux, PostgreSQL](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/) - 12 parts
 * [Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
-* [https://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/](Building a React Universal Blog App: A Step-by-Step Guide)
+* [Building a React Universal Blog App: A Step-by-Step Guide](https://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/)
+* [Building a Secure RESTful Node.js app](http://thejackalofjavascript.com/architecting-a-restful-node-js-app/)
 
 ### REACT JS:
 * [Top 5 Tutorials for getting started with React](http://andrewhfarmer.com/getting-started-tutorials/)
@@ -41,3 +42,4 @@ List of resources (mostly free) to learn coding
 ### Cool projects other people have made:
 * [Belgian Beer Explorer with React, Bootstrap, Node.js and Postgres](http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-react-bootstrap-node-js-and-postgres/)
 * [90 Full Stack React Examples (some with tuts)](https://react.rocks/tag/FullStack?show=40)
+* [portfolio](https://github.com/mattwilliams85/mattwilliams85.github.io)
