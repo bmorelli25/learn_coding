@@ -42,4 +42,17 @@ List of resources (mostly free) to learn coding
 ### Cool projects other people have made:
 * [Belgian Beer Explorer with React, Bootstrap, Node.js and Postgres](http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-react-bootstrap-node-js-and-postgres/)
 * [90 Full Stack React Examples (some with tuts)](https://react.rocks/tag/FullStack?show=40)
+
+### Cool People
 * [portfolio](https://github.com/mattwilliams85/mattwilliams85.github.io)
+* [linkedIn - Hack Reactor](https://www.linkedin.com/in/felix-feng), [Blog Post w/study material & interview prep](https://www.linkedin.com/pulse/5-key-learnings-from-post-bootcamp-job-search-felix-feng?trk=prof-post)
+
+### Redit Links
+* [Single most useful Bookmark you have?](https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you/)
+* [Harvard CS50 Prep & Practice for Technical Interviews](https://www.reddit.com/r/cscareerquestions/comments/5chzwo/im_not_sure_if_this_is_more_appropriate_for_here/)
+* [Questions to Ask in an interview](https://www.reddit.com/r/cscareerquestions/comments/4ce2s3/resource_interview_questions_my_massive/)
+* [Free Udacity Course on Interview Prep](https://www.reddit.com/r/cscareerquestions/comments/4jjbx2/udacity_now_has_a_course_free_to_prepare_you_for/)
+* [Google Tech Interview FAQs](https://www.reddit.com/r/cscareerquestions/comments/4evk44/my_google_tech_interviewing_decoded_experience/)
+* [How I got started with Programming Side Projects](https://www.reddit.com/r/cscareerquestions/comments/4zooyv/how_i_got_started_with_programming_side_projects/)
+* [251 Companies you can apply to](https://www.reddit.com/r/cscareerquestions/comments/46a4ep/another_list_of_251_companies_that_you_can_apply/)
+* [What I learned after applying to a ton of jobs and getting an offer](https://www.reddit.com/r/cscareerquestions/comments/58s0st/what_i_learned_after_applying_to_a_ton_of_jobs/)
