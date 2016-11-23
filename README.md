@@ -45,6 +45,7 @@ List of resources (mostly free) to learn coding
 
 ### Cool People
 * [portfolio](https://github.com/mattwilliams85/mattwilliams85.github.io)
+* [portfolio](https://chippd.github.io/)
 * [linkedIn - Hack Reactor](https://www.linkedin.com/in/felix-feng), [Blog Post w/study material & interview prep](https://www.linkedin.com/pulse/5-key-learnings-from-post-bootcamp-job-search-felix-feng?trk=prof-post)
 
 ### Redit Links
